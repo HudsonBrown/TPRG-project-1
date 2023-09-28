@@ -1,0 +1,14 @@
+Use of function 
+
+Correct Gui
+
+Comment Header
+
+Code comments
+
+Correct results - your RLC does not use resistor
+
+my example H = , F = , R = , 
+Center frequency = Hz
+Series bandwidth = Hz
+Series Q factor = 
